@@ -1,0 +1,220 @@
+Uri: https://www.cantonesehouseduluth.com/
+File Name: C:\Downloaded Web Sites\www.cantonesehouseduluth.com\index.htm
+Content Type: text/html
+
+Uri: https://www.cantonesehouseduluth.com/dinner-menu.html
+File Name: C:\Downloaded Web Sites\www.cantonesehouseduluth.com\dinner-menu.html
+Content Type: text/html
+
+Uri: https://www.cantonesehouseduluth.com/images/stories/siteimages/cantonesehouse_map.jpg
+File Name: C:\Downloaded Web Sites\www.cantonesehouseduluth.com\images\stories\siteimages\cantonesehouse_map.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cantonesehouseduluth.com/images/stories/siteimages/dinner_menu_button.png
+File Name: C:\Downloaded Web Sites\www.cantonesehouseduluth.com\images\stories\siteimages\dinner_menu_button.png
+Content Type: image/png
+
+Uri: https://www.cantonesehouseduluth.com/images/stories/siteimages/facebook-icon.png
+File Name: C:\Downloaded Web Sites\www.cantonesehouseduluth.com\images\stories\siteimages\facebook-icon.png
+Content Type: image/png
+
+Uri: https://www.cantonesehouseduluth.com/images/stories/siteimages/fan.png
+File Name: C:\Downloaded Web Sites\www.cantonesehouseduluth.com\images\stories\siteimages\fan.png
+Content Type: image/png
+
+Uri: https://www.cantonesehouseduluth.com/images/stories/siteimages/inside.png
+File Name: C:\Downloaded Web Sites\www.cantonesehouseduluth.com\images\stories\siteimages\inside.png
+Content Type: image/png
+
+Uri: https://www.cantonesehouseduluth.com/images/stories/siteimages/lamp.png
+File Name: C:\Downloaded Web Sites\www.cantonesehouseduluth.com\images\stories\siteimages\lamp.png
+Content Type: image/png
+
+Uri: https://www.cantonesehouseduluth.com/images/stories/siteimages/lunch_menu_button.png
+File Name: C:\Downloaded Web Sites\www.cantonesehouseduluth.com\images\stories\siteimages\lunch_menu_button.png
+Content Type: image/png
+
+Uri: https://www.cantonesehouseduluth.com/images/stories/siteimages/outside.png
+File Name: C:\Downloaded Web Sites\www.cantonesehouseduluth.com\images\stories\siteimages\outside.png
+Content Type: image/png
+
+Uri: https://www.cantonesehouseduluth.com/lunch-menu.html
+File Name: C:\Downloaded Web Sites\www.cantonesehouseduluth.com\lunch-menu.html
+Content Type: text/html
+
+Uri: https://www.cantonesehouseduluth.com/media/system/js/caption.js
+File Name: C:\Downloaded Web Sites\www.cantonesehouseduluth.com\media\system\js\caption.js
+Content Type: application/javascript
+
+Uri: https://www.cantonesehouseduluth.com/menu.html
+File Name: C:\Downloaded Web Sites\www.cantonesehouseduluth.com\menu.html
+Content Type: text/html
+
+Uri: https://www.cantonesehouseduluth.com/plugins/system/mtupgrade/mootools.js
+File Name: C:\Downloaded Web Sites\www.cantonesehouseduluth.com\plugins\system\mtupgrade\mootools.js
+Content Type: application/javascript
+
+Uri: https://www.cantonesehouseduluth.com/takeout.html
+File Name: C:\Downloaded Web Sites\www.cantonesehouseduluth.com\takeout.html
+Content Type: text/html
+
+Uri: https://www.cantonesehouseduluth.com/templates/cantonesehouse/css/template.css?t=4
+File Name: C:\Downloaded Web Sites\www.cantonesehouseduluth.com\templates\cantonesehouse\css\template.css
+Content Type: text/css
+
+Uri: https://www.cantonesehouseduluth.com/templates/cantonesehouse/favicon.ico
+File Name: C:\Downloaded Web Sites\www.cantonesehouseduluth.com\templates\cantonesehouse\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://www.cantonesehouseduluth.com/templates/cantonesehouse/images/dragon_tail.png
+File Name: C:\Downloaded Web Sites\www.cantonesehouseduluth.com\templates\cantonesehouse\images\dragon_tail.png
+Content Type: image/png
+
+Uri: https://www.cantonesehouseduluth.com/templates/cantonesehouse/images/footer.png
+File Name: C:\Downloaded Web Sites\www.cantonesehouseduluth.com\templates\cantonesehouse\images\footer.png
+Content Type: image/png
+
+Uri: https://www.cantonesehouseduluth.com/templates/cantonesehouse/images/header.png
+File Name: C:\Downloaded Web Sites\www.cantonesehouseduluth.com\templates\cantonesehouse\images\header.png
+Content Type: image/png
+
+Uri: https://www.cantonesehouseduluth.com/templates/cantonesehouse/images/main-background.png
+File Name: C:\Downloaded Web Sites\www.cantonesehouseduluth.com\templates\cantonesehouse\images\main-background.png
+Content Type: image/png
+
+Uri: https://www.cantonesehouseduluth.com/templates/cantonesehouse/images/menu_button.png
+File Name: C:\Downloaded Web Sites\www.cantonesehouseduluth.com\templates\cantonesehouse\images\menu_button.png
+Content Type: image/png
+
+Uri: https://www.cantonesehouseduluth.com/templates/cantonesehouse/images/menu_button_americasfavorites.png
+File Name: C:\Downloaded Web Sites\www.cantonesehouseduluth.com\templates\cantonesehouse\images\menu_button_americasfavorites.png
+Content Type: image/png
+
+Uri: https://www.cantonesehouseduluth.com/templates/cantonesehouse/images/menu_button_appetizers.png
+File Name: C:\Downloaded Web Sites\www.cantonesehouseduluth.com\templates\cantonesehouse\images\menu_button_appetizers.png
+Content Type: image/png
+
+Uri: https://www.cantonesehouseduluth.com/templates/cantonesehouse/images/menu_button_chinesedishes.png
+File Name: C:\Downloaded Web Sites\www.cantonesehouseduluth.com\templates\cantonesehouse\images\menu_button_chinesedishes.png
+Content Type: image/png
+
+Uri: https://www.cantonesehouseduluth.com/templates/cantonesehouse/images/menu_button_combinations.png
+File Name: C:\Downloaded Web Sites\www.cantonesehouseduluth.com\templates\cantonesehouse\images\menu_button_combinations.png
+Content Type: image/png
+
+Uri: https://www.cantonesehouseduluth.com/templates/cantonesehouse/images/menu_button_drinks.png
+File Name: C:\Downloaded Web Sites\www.cantonesehouseduluth.com\templates\cantonesehouse\images\menu_button_drinks.png
+Content Type: image/png
+
+Uri: https://www.cantonesehouseduluth.com/templates/cantonesehouse/images/menu_button_over.png
+File Name: C:\Downloaded Web Sites\www.cantonesehouseduluth.com\templates\cantonesehouse\images\menu_button_over.png
+Content Type: image/png
+
+Uri: https://www.cantonesehouseduluth.com/templates/cantonesehouse/images/menu_button_specialties.png
+File Name: C:\Downloaded Web Sites\www.cantonesehouseduluth.com\templates\cantonesehouse\images\menu_button_specialties.png
+Content Type: image/png
+
+Uri: https://www.cantonesehouseduluth.com/templates/cantonesehouse/images/site_logo.png
+File Name: C:\Downloaded Web Sites\www.cantonesehouseduluth.com\templates\cantonesehouse\images\site_logo.png
+Content Type: image/png
+
+Uri: https://www.cantonesehouseduluth.com/templates/cantonesehouse/images/title_vector_left.png
+File Name: C:\Downloaded Web Sites\www.cantonesehouseduluth.com\templates\cantonesehouse\images\title_vector_left.png
+Content Type: image/png
+
+Uri: https://www.cantonesehouseduluth.com/templates/cantonesehouse/images/title_vector_right.png
+File Name: C:\Downloaded Web Sites\www.cantonesehouseduluth.com\templates\cantonesehouse\images\title_vector_right.png
+Content Type: image/png
+
+Uri: https://www.cantonesehouseduluth.com/templates/cantonesehouse/images/woodenTile.png
+File Name: C:\Downloaded Web Sites\www.cantonesehouseduluth.com\templates\cantonesehouse\images\woodenTile.png
+Content Type: image/png
+
+Uri: https://www.cantonesehouseduluth.com/templates/cantonesehouse/js/business_hours.js
+File Name: C:\Downloaded Web Sites\www.cantonesehouseduluth.com\templates\cantonesehouse\js\business_hours.js
+Content Type: application/javascript
+
+Uri: https://www.cantonesehouseduluth.com/templates/cantonesehouse/js/fancybox/blank.gif
+File Name: C:\Downloaded Web Sites\www.cantonesehouseduluth.com\templates\cantonesehouse\js\fancybox\blank.gif
+Content Type: image/gif
+
+Uri: https://www.cantonesehouseduluth.com/templates/cantonesehouse/js/fancybox/fancybox-x.png
+File Name: C:\Downloaded Web Sites\www.cantonesehouseduluth.com\templates\cantonesehouse\js\fancybox\fancybox-x.png
+Content Type: image/png
+
+Uri: https://www.cantonesehouseduluth.com/templates/cantonesehouse/js/fancybox/fancybox-y.png
+File Name: C:\Downloaded Web Sites\www.cantonesehouseduluth.com\templates\cantonesehouse\js\fancybox\fancybox-y.png
+Content Type: image/png
+
+Uri: https://www.cantonesehouseduluth.com/templates/cantonesehouse/js/fancybox/fancybox.png
+File Name: C:\Downloaded Web Sites\www.cantonesehouseduluth.com\templates\cantonesehouse\js\fancybox\fancybox.png
+Content Type: image/png
+
+Uri: https://www.cantonesehouseduluth.com/templates/cantonesehouse/js/fancybox/fancy_title_over.png
+File Name: C:\Downloaded Web Sites\www.cantonesehouseduluth.com\templates\cantonesehouse\js\fancybox\fancy_title_over.png
+Content Type: image/png
+
+Uri: https://www.cantonesehouseduluth.com/templates/cantonesehouse/js/fancybox/jquery.easing-1.3.pack.js
+File Name: C:\Downloaded Web Sites\www.cantonesehouseduluth.com\templates\cantonesehouse\js\fancybox\jquery.easing-1.3.pack.js
+Content Type: application/javascript
+
+Uri: https://www.cantonesehouseduluth.com/templates/cantonesehouse/js/fancybox/jquery.fancybox-1.3.4.css
+File Name: C:\Downloaded Web Sites\www.cantonesehouseduluth.com\templates\cantonesehouse\js\fancybox\jquery.fancybox-1.3.4.css
+Content Type: text/css
+
+Uri: https://www.cantonesehouseduluth.com/templates/cantonesehouse/js/fancybox/jquery.fancybox-1.3.4.pack.js
+File Name: C:\Downloaded Web Sites\www.cantonesehouseduluth.com\templates\cantonesehouse\js\fancybox\jquery.fancybox-1.3.4.pack.js
+Content Type: application/javascript
+
+Uri: https://www.cantonesehouseduluth.com/templates/cantonesehouse/js/fastclick.js
+File Name: C:\Downloaded Web Sites\www.cantonesehouseduluth.com\templates\cantonesehouse\js\fastclick.js
+Content Type: application/javascript
+
+Uri: https://www.cantonesehouseduluth.com/templates/cantonesehouse/js/foodmenu.js
+File Name: C:\Downloaded Web Sites\www.cantonesehouseduluth.com\templates\cantonesehouse\js\foodmenu.js
+Content Type: application/javascript
+
+Uri: https://www.cantonesehouseduluth.com/templates/cantonesehouse/js/jquery-1.4.3.min.js
+File Name: C:\Downloaded Web Sites\www.cantonesehouseduluth.com\templates\cantonesehouse\js\jquery-1.4.3.min.js
+Content Type: application/javascript
+
+Uri: https://www.cantonesehouseduluth.com/templates/system/css/general.css
+File Name: C:\Downloaded Web Sites\www.cantonesehouseduluth.com\templates\system\css\general.css
+Content Type: text/css
+
+Uri: https://www.cantonesehouseduluth.com/templates/system/css/system.css
+File Name: C:\Downloaded Web Sites\www.cantonesehouseduluth.com\templates\system\css\system.css
+Content Type: text/css
+
+Uri: https://www.cantonesehouseduluth.com/templates/system/images/calendar.png
+File Name: C:\Downloaded Web Sites\www.cantonesehouseduluth.com\templates\system\images\calendar.png
+Content Type: image/png
+
+Uri: https://www.cantonesehouseduluth.com/templates/system/images/j_button2_blank.png
+File Name: C:\Downloaded Web Sites\www.cantonesehouseduluth.com\templates\system\images\j_button2_blank.png
+Content Type: image/png
+
+Uri: https://www.cantonesehouseduluth.com/templates/system/images/j_button2_image.png
+File Name: C:\Downloaded Web Sites\www.cantonesehouseduluth.com\templates\system\images\j_button2_image.png
+Content Type: image/png
+
+Uri: https://www.cantonesehouseduluth.com/templates/system/images/j_button2_left.png
+File Name: C:\Downloaded Web Sites\www.cantonesehouseduluth.com\templates\system\images\j_button2_left.png
+Content Type: image/png
+
+Uri: https://www.cantonesehouseduluth.com/templates/system/images/j_button2_pagebreak.png
+File Name: C:\Downloaded Web Sites\www.cantonesehouseduluth.com\templates\system\images\j_button2_pagebreak.png
+Content Type: image/png
+
+Uri: https://www.cantonesehouseduluth.com/templates/system/images/j_button2_readmore.png
+File Name: C:\Downloaded Web Sites\www.cantonesehouseduluth.com\templates\system\images\j_button2_readmore.png
+Content Type: image/png
+
+Uri: https://www.cantonesehouseduluth.com/templates/system/images/selector-arrow.png
+File Name: C:\Downloaded Web Sites\www.cantonesehouseduluth.com\templates\system\images\selector-arrow.png
+Content Type: image/png
+
+Uri: https://www.cantonesehouseduluth.com/the-restaurant.html
+File Name: C:\Downloaded Web Sites\www.cantonesehouseduluth.com\the-restaurant.html
+Content Type: text/html
+

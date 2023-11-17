@@ -1,0 +1,644 @@
+/*
+  Cantonese House Template main CSS file
+*/
+
+/*////////// GENERAL //////////*/
+
+body {
+  margin: 0;
+  background-image: url(../images/woodenTile.png);  
+
+  background-color: #704a23;
+}
+
+img{
+  border: 0;
+}
+
+#container {
+  margin: 0 auto;
+  margin-top: 16px;
+  //border: 1px solid #666666;
+  width: 984px;
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  line-height:16px;
+}
+
+#container2 {
+ //border: 1px solid #0000ff;
+}
+
+#container3 {
+ width: 984px;
+ float:left;
+ //border: 1px solid #ff0000;
+ margin-left: 1px;
+ background-image: url(../images/main-background.png);
+ background-repeat: y;
+ min-height:440px;
+}
+
+
+/*////////// TYPEOGRAPHY //////////*/
+
+h1, h4 {
+  font-family: "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+}
+
+h2, h3{
+  font-family: Georgia, Times, serif;
+}
+
+h1{
+  font-size: 32px;
+}
+
+h3{
+  font-size: 22px;
+}
+
+h2{
+  font-size: 16px;
+}
+
+h4{
+  font-size: 14px;
+}
+
+p {
+ margin-bottom: 18px;
+}
+
+
+blockquote{
+  font-size: 18px;
+  margin-bottom: 24px;
+}
+
+
+
+a {
+  text-decoration: none;
+  font-weight: bold;
+  color: #d53930;
+  outline:medium none;
+}
+a:hover {
+  text-decoration: underline;
+  color: #dc271c;
+}
+
+a:visited {}
+
+/*////////// HEADERS //////////*/
+
+#header {
+   padding-top: 70px;
+   padding-left: 50px;
+   width: 934px;
+   height: 125px;
+   background-image: url(../images/header.png);
+   background-repeat: no-repeat;
+   text-align: center;
+}
+
+
+/*////////// CONTENT //////////*/
+#content {
+ margin-left: 48px;
+ margin-right: 334px;
+ padding-top: 6px;
+ width: auto;
+ //border: 1px solid #333333;
+}
+#pushbottom{
+ clear:both;
+}
+
+
+/*/////////////// MENU //////////////*/
+.menu, .menu ul { /* all lists */
+   padding: 0;
+   margin: 0;
+   list-style: none;
+   float : left;
+   width: 900px;
+   height: 40px;
+   font-family: Verdana, Arial, Helvetica, sans-serif;
+   font-size: 14px;
+   font-variant: small-caps;
+}
+.menu li { /* all list items */
+   position : relative;
+   float : left;
+   line-height : 1.25em;
+   margin-bottom : -1px;
+}
+.menu li a {
+   width: 134px;
+   line-height: 37px;
+   //border-right: 1px solid yellow;
+   display : block;
+   color : #000000;
+   font-weight : bold;
+   text-decoration : none;
+   text-align: center;                                         
+   background-image: url(../images/menu_button.png);
+}
+
+.menu li a:hover {                                      
+   background-image: url(../images/menu_button_over.png);
+   color: #fee900;
+}
+
+/* Change this in the future?
+.menu #current a{
+   color: #000000;
+   background-image: url(../images/menu_button_over.png);
+}
+
+
+.menu #current a:hover{
+   color: #fee900;5:15 PM 11/13/2010
+   background-image: url(../images/menu_button_over.png);
+}*/
+
+
+
+/*////////// SIDEBARS //////////*/
+
+#sidebarRT {
+ position: absolute;
+ top: 210px;
+ 
+ margin:0 85px;
+ margin-left: 676px; 
+ margin-top: 0px;
+ width: 236px;
+}
+
+#sidebarRT h3{
+	font-size: 110%;
+  margin-bottom: 4px;
+}
+
+#sidebarRT p{
+	margin-top: 6px;
+}
+
+/*////////// NAV //////////*/
+
+ #top_navlist {
+   position: absolute;
+   top: 174px;
+   margin-left: 42px;
+   /*border: 1px solid #ffff00;to help see positioning*/
+}
+#top_navlist h3{
+   display: none;
+}
+
+
+
+/*/////////// DRAGON TAIL DIV ///////////*/
+#top_dragontail{
+  position: absolute;
+  top: 211px;
+  width: 41px;
+  height: 43px;
+  background-image:url(../images/dragon_tail.png);
+}
+
+
+/*////////// FORMS //////////*/
+
+/*////////// FOOTER //////////*/
+#footer {
+ //border: 1px solid #000033;
+ font-size: 11px;
+ height: 61px;
+ width: 934px;
+ background-image: url(../images/footer.png);
+ margin-bottom: 20px;
+ padding-left: 50px;
+ padding-top: 20px;
+}
+
+#footercontainer{
+ //border: 1px solid #003333;
+  width: 598px;
+  padding-top: 5px;
+}
+
+/*////////// IMAGES //////////*/
+
+/*////// FUN CLASSES ///////////*/
+
+
+.leftWidth{/*class allows for quickly ensuring anything on the left
+                                                 side can be set*/
+ width: 520px;
+}
+
+.quickMargin{/*adds 10px of margin to anything*/
+ margin: 10px;
+}
+
+div#preload { display: none; }  /* For preloading images */
+
+
+/*any little extra flares and fun design
+elements you want to add can go here*/
+
+
+/*////////// BUSINESS HOURS WIDGET //////////////*/
+
+table.businesshours{
+  text-align: center;
+  color: #404040;
+  width: 180px;
+  border-collapse: collapse;
+  border-spacing: 0px;
+  margin-top: 4px;
+}
+
+table.businesshours td.announcement{
+  color: black;
+  font-weight: bold;
+  font-size: 110%;
+  padding-top: 12px;
+  font-variant: small-caps;
+ 
+}          
+
+table.businesshours tr.today{
+  font-weight: bold;
+  color: black;
+}
+
+table.businesshours td.day{
+  text-align: left;
+  padding-left: 0px;
+}
+
+table.businesshours td.close{
+  padding-right: 6px;
+}
+
+/*//////////// LUNCH/DINNER MENU ////////////////*/
+
+
+.foodmenu{
+   padding: 0;
+   margin-left: 18px;
+   font-family: Verdana, Arial, Helvetica, sans-serif;
+}   
+                
+.foodmenu { /* all list items */
+   line-height : 1em;
+}
+
+.foodmenu div.expand{ /* Only item that are expanded */
+   font-size: 12px;  
+   display: none;         
+}             
+
+.foodmenu .dishname{
+  font-size: 15px;
+  color: #d53930;
+  font-weight: 500;
+}
+
+.foodmenu td.subtitle{
+  padding-top: 6px;
+  text-align: center;
+  font-size: 19px;
+}
+
+.foodmenu .dishprice{
+  font-size: 11px;
+  margin: 0px 6px 6px 6px;
+  vertical-align: top;
+  float: right;
+  color: black;
+
+}
+
+.foodmenu a.button{
+  width: 499px;
+  margin-bottom: 6px;
+  line-height: 47px;
+  display : block;                           
+  background-repeat: no-repeat; 
+  font-size: 19px;
+  padding-left: 66px;
+  font-weight: normal;
+  color: black;
+}
+
+.foodmenu a.button:hover{
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.foodmenu a.appetizers{ background-image: url(../images/menu_button_appetizers.png); }
+.foodmenu a.specialties{ background-image: url(../images/menu_button_specialties.png); }
+.foodmenu a.chinesedishes{ background-image: url(../images/menu_button_chinesedishes.png); }
+.foodmenu a.americasfavorites{ background-image: url(../images/menu_button_americasfavorites.png); }
+.foodmenu a.combinations{ background-image: url(../images/menu_button_combinations.png); }
+.foodmenu a.drinks{ background-image: url(../images/menu_button_drinks.png); }
+
+
+.foodmenu table{
+  width: 565px;
+  margin-top: 6px;
+}
+
+.foodmenu table td{
+  width: 50%;
+  vertical-align: top;
+  padding-bottom: 16px;
+}
+
+.foodmenu table td.right{
+  padding-left: 4px;
+}
+
+.foodmenu table td.left{
+  padding-right: 4px;
+}
+
+.foodmenu div.description{
+  margin-top: 8px;
+}
+
+.foodmenu td.sidenote{
+  text-align: center;
+  font-style: italic;
+  font-size: 110%;
+}
+
+/*/////// VECTOR TITLE //////////*/
+img.vector{
+  vertical-align: middle;
+}   
+
+@media only screen and (max-width: 970px){
+  h1{
+    line-height: 1.2;
+  }
+  #top_dragontail{ display: none; }
+  #header{
+    background-image: none;
+    background: #d7271b; /* Old browsers */
+    background: -moz-linear-gradient(top,  #d7271b 0%, #dc471c 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#d7271b), color-stop(100%,#dc471c)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #d7271b 0%,#dc471c 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #d7271b 0%,#dc471c 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #d7271b 0%,#dc471c 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #d7271b 0%,#dc471c 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d7271b', endColorstr='#dc471c',GradientType=0 ); /* IE6-9 */
+    padding-top: 5px;
+    height: auto;
+    padding-left: 0;
+    width: 100%;
+  }
+  #header img{
+    height: 60px;
+    margin-bottom: 5px;
+  }
+  
+  #container{
+    margin-top: 0;
+  }
+
+  #top_navlist{
+    top: 70px;
+    margin-left: 0;
+    width: 100%;
+  }
+
+  .menu li a{
+    width: auto;
+    border-right: 2px solid #711702;
+  }
+  .menu li:last-child a{
+    border-right: none;
+  }
+  .menu li a, .menu li a:hover, .menu li a:active{
+    background: #c81406; /* Old browsers */
+    background: -moz-linear-gradient(top,  #c81406 0%, #bd3404 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#c81406), color-stop(100%,#bd3404)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #c81406 0%,#bd3404 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #c81406 0%,#bd3404 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #c81406 0%,#bd3404 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #c81406 0%,#bd3404 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c81406', endColorstr='#bd3404',GradientType=0 ); /* IE6-9 */
+  }
+
+  .menu li{
+    width: 25%;
+  }
+  .menu{ width: 100%;}
+  
+  #content {
+    margin-left: 0px;
+    padding-top: 40px;
+    width: auto;
+    margin-right: 240px;
+  }
+  #page, .blog{
+    margin-left: 12px;
+    margin-right: 24px;
+  }
+  #container{
+      width: 100%;
+  }
+
+  body{
+    background-image: none;
+    background-color: white;
+  }
+
+  #container3 {
+    width: 100%;
+    min-height:0px;
+    background-color: #FFF;
+    margin-left: 0;
+    background-image: none;
+  }
+
+  #sidebarRT{
+    background-color: #F6E288;
+    top: 106px;
+    right: 0;
+    margin: 0;
+    height: 100%;
+    padding-bottom: 0;
+  }
+
+  #sidebarRT > div{
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  #top_navlist .menu a{
+    line-height: 1;
+    height: 42px;
+    margin-top: ;
+  } 
+
+  #top_navlist .menu a {
+      display: flex;
+      display: -moz-flex;
+      display: -webkit-flex;
+      display: -ms-flex;
+      display: -o-flex;
+
+
+      align-items: center;
+      -moz-align-items: center;
+      -webkit-align-items: center;
+      -ms-align-items: center;
+      -o-align-items: center;
+
+      justify-content: center;
+      -moz-justify-content: center;
+      -webkit-justify-content: center;
+      -ms-justify-content: center;
+      -o-justify-content: center;
+  }
+
+  #footer{
+    display: none;
+  }
+
+  .foodmenu{
+    padding-left: 0;
+
+    margin-left: 0;
+  }
+
+  .foodmenu a.button{
+    width: 100%;
+    border: 1px solid #E5E0CA;
+    background-image: none;
+    text-indent: 18px;
+    padding: 0;
+  }
+
+  .foodmenu a.appetizers{ background-color: #FDF9E7; }
+  .foodmenu a.chinesedishes{ background-color: #F6D4D2; }
+  .foodmenu a.americasfavorites{ background-color: #F8EDE1; }
+  .foodmenu a.combinations{ background-color: #E3E2E0; }
+  .foodmenu a.drinks{ background-color: #F0F1EA; }
+
+  .foodmenu table{
+    width: 100%;
+  }
+
+  #page img[title="Lunch Menu"], #page img[title="Dinner Menu"]{
+    max-width: 500px;
+  }
+
+  #page img{
+      max-width: 280px;
+  }
+
+}
+
+@media only screen and (max-width: 800px){
+  #page img[title="Lunch Menu"], #page img[title="Dinner Menu"]{
+    max-width: 400px;
+  }
+}
+
+@media only screen and (max-width: 700px){
+  #page img[title="Lunch Menu"], #page img[title="Dinner Menu"]{
+    max-width: 360px;
+  }
+}
+
+@media only screen and (max-width: 641px){
+  #page, .blog{
+    margin-right: 12px;
+  }
+
+  #sidebarRT{
+    clear:both;
+    position: initial;
+    height: auto;
+    width: 100%;
+    margin-top: 8px;
+    padding-top: 8px;
+    padding-bottom: 16px;
+  }
+
+  #content{
+    margin-right: 0;
+  }
+
+  .foodmenu a.drinks{
+    margin-bottom: 24px;
+  }
+
+  #page img[title="Lunch Menu"], #page img[title="Dinner Menu"]{
+    max-width: 400px;
+  }
+}
+
+@media only screen and (max-width: 481px){
+  #top_navlist .menu li:first-child{
+    display: none;
+  }
+
+  .menu li{
+    width: 33.333%;
+  }
+
+
+  #page img{
+      max-width: 200px;
+  }
+
+  #page img[title="Lunch Menu"], #page img[title="Dinner Menu"]{
+    max-width: 340px;
+  }
+}
+
+@media only screen and (max-width: 370px){
+  #page img{
+      max-width: 306px;
+  }
+
+  #top_navlist{
+    top: 56px;
+  }
+
+  #header img{
+    height: 46px;
+    margin-bottom: 5px;
+  }
+
+  #page img[title="Lunch Menu"], #page img[title="Dinner Menu"]{
+    max-width: 300px;
+  }
+}
+
+@media only screen and (max-width: 318px){
+  #page img[title="Lunch Menu"], #page img[title="Dinner Menu"]{
+    max-width: 260px;
+  }
+
+}
+
+/* medium-res laptops and desktops */
+@media only screen and (min-width: 970px) and (max-width: 1367px)  {
+
+}
+
+/* high-res laptops and desktops */
+@media only screen and (min-width: 1367px){
+
+}
